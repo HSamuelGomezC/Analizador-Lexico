@@ -1,0 +1,10 @@
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.exe.config
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.exe
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.pdb
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.AssemblyReference.cache
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador_Lexico.Form1.resources
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador_Lexico.Properties.Resources.resources
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.GenerateResource.cache
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.CoreCompileInputs.cache
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.exe
+E:\Hector Uni\Septimo Semestre\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.pdb
